@@ -1,5 +1,5 @@
 const { ethers } = require("hardhat");
-require("dotenv").config(); // Load environment variables from .env file
+require("dotenv").config(); 
 
 
 async function main() {
