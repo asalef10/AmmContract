@@ -13,9 +13,4 @@ The AMMContract is a simple implementation of an Automated Market Maker (AMM) co
 * Reserves and Ratios: The contract calculates the number of output tokens based on the current reserves and the desired input amount using a constant-product formula.
 
 * Input Validation: The contract performs various checks, such as ensuring input tokens are different, maintaining liquidity pool ratios, and handling insufficient amounts, to prevent invalid operations.
-
-# Prerequisites
-
-- Node.js and npm (Node Package Manager) should be installed on your machine.
-- Ganache (or Ganache CLI) should be installed and running to provide a local development blockchain.
-- MetaMask should be installed as a browser extension (e.g., on Google Chrome).
+ 
